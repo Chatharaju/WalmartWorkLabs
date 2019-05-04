@@ -1,0 +1,103 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "BMW",   
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": "2",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "Audi", 
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "In Delearship"
+    },
+    {
+      "id": "2",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "Honda", 
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "In Delearship"
+    },
+    {
+      "id": "1",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "Toyota", 
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "unavailable"
+    },
+    {
+      "id": "1",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "Something", 
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": "1",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "Audi", 
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": "1",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "BMW", 
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": "1",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "Honda", 
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "In Delearship"
+    },
+    {
+      "id": "1",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "Honda", 
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": "1",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "BMW", 
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": "1",
+      "img": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "name": "Audi", 
+      "make": "MyMake",
+      "model": "MyModel",
+      "year": "2018",
+      "availability": "In Delearship"
+    }
+  ]
+}
